@@ -40,6 +40,5 @@ out/
 *.rar
 
 ### Exclusions ###
-
 !**/src/main/**
 !**/src/test/**
